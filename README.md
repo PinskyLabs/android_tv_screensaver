@@ -3,7 +3,7 @@
 A new Flutter project, which replicates the Android TV screen saver.
  - **Time Taken: 4hrs**
  - Preview => https://drive.google.com/file/d/18x2Y7BKTznEBJ1o4efIDcRGCUP-Dw9fL/view?usp=sharing
- - **CAUTION: It's only been tested on Android TV**
+ - **CAUTION: It has only been tested on Android TV**
 
 ## Getting Started
 
