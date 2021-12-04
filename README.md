@@ -1,6 +1,7 @@
 # android_tv_screensaver
 
-A new Flutter project.
+A new Flutter project, which replicates the Android TV screen saver.
+ - **Time Taken: 4hrs**
 
 ## Getting Started
 
